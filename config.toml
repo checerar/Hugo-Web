@@ -1,0 +1,5 @@
+baseURL = 'web-hugo/'
+languageCode = 'en-us'
+title = 'Web de Gabi con Hugo'
+
+theme = 'relearn'
